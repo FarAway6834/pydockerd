@@ -1,0 +1,6 @@
+from toolcore import *
+
+tool = (
+{
+}
+)
