@@ -1,7 +1,24 @@
 from setuptools import setup, find_packages
+from setuptools.command.install import install
+
+class f(install):
+    pass
 
 setup(
     name='pydockerd',
+    cmdclass = dict(install = 
+
+
+
+
+
+kwji2
+
+d
+2
+2
+d
+);
     version='0.0.1',
     description='dockerd but python, on linux, osx, windows, arm, freebsd, solaris',
     author='du7ec',
