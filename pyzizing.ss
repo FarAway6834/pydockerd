@@ -1,0 +1,1 @@
+python -m zipapp __main__ -m "__init__:main" -o pydockerd/__main__.pyz
